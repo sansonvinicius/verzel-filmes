@@ -3,3 +3,4 @@ djangorestframework>=3.16.1
 django-cors-headers>=4.3
 requests>=2.31
 python-dotenv>=1.0
+gunicorn>=21.2
