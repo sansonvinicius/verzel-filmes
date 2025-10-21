@@ -1,0 +1,5 @@
+.venv/
+backend-django/db.sqlite3
+backend-django/.env
+frontend/node_modules/
+frontend/.env
