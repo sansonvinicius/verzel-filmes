@@ -199,7 +199,7 @@ Para isolar as dependências do projeto, é recomendado usar um ambiente virtual
 ## 👨‍💻 Autor
 
 **Vinícius Sanson**  
-💼 [LinkedIn](https://www.linkedin.com/in/vinicius-sanson)
+💼 [LinkedIn](https://www.linkedin.com/in/vinicius-henrique-sanson-51066229/)
 
 ---
 
