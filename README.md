@@ -121,7 +121,7 @@ Para testar se a API está funcionando corretamente, acesse no navegador:
 
 Exemplo:  
 👉 [http://localhost:4000/api/search?query=Lego](http://localhost:4000/api/search?query=Lego)
----
+
 
 ### 3️⃣ Iniciar o Frontend (React/Vite)
 
